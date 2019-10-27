@@ -6,7 +6,7 @@ namespace GitHubTest_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi There!");
+            Console.WriteLine("Hello There!");
         }
     }
 }
