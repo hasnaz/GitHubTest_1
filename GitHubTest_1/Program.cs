@@ -8,5 +8,10 @@ namespace GitHubTest_1
         {
             Console.WriteLine("Hello There!");
         }
+
+        public override string ToString()
+        {
+            return "Hello!";
+        }
     }
 }
